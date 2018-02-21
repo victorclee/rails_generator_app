@@ -1,6 +1,6 @@
 ## This is an Rails app built to try different customizable generator features
 
-### In `config/application.rb`
+In `config/application.rb`
 
 ```ruby
 class Application < Rails::Application
